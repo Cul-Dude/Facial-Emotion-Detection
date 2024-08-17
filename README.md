@@ -25,9 +25,15 @@ The project uses Deep learning libraries like TensorFlow and Keras to build 2 Co
 3) **Model's Architecture**: Developed two CNN models, which when used together, give us the required output.
 4) **Evaluation**: Evaluated the model's performance by getting accuracy and making the confusion matrix.
 
+# Result and Performance
+The model achieves an impressive accuracy of 73% on the test dataset, showcasing its ability to generalize well to unseen data. Detailed performance metrics and visualizations can be found in the accompanying Google Colab Notebook.
 
-# Development Scope:
+   
+# Development Scope
 
 Emotion AI has the potential to revolutionize various industries by making technology more attuned to human emotions, ultimately enhancing user experiences and improving interactions between humans and machines
 
-With integration with other AI technologies, such as conversational agents and autonomous systems, advancement in deep learning and multimodal data analysis, more accurate and sophisticated Emotion AI systems can be developed. 
+With integration with other AI technologies, such as conversational agents and autonomous systems, advancement in deep learning, and multimodal data analysis, more accurate and sophisticated Emotion AI systems can be developed. 
+
+# Contributing
+I welcome contributions to enhance the project. If you have any ideas or suggestions, feel free to open an issue or submit a pull request.
