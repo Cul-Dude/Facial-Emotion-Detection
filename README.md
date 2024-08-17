@@ -22,7 +22,7 @@ The project uses Deep learning libraries like TensorFlow and Keras to build 2 Co
 
 1) **Importing necessary libraries and the dataset** Like NumPy, pandas, seaborn, TensorFlow, Keras OpenCV.
 2) **Data Preprocessing and Data Augmentation:** Did data preprocessing like converting the image to grayscale, with adjusted pixel values. Also, augmented data like inverting images, flipping images, and changing brightness.3
-3) **Model' Architecture**: Developed two CNN models, which when used together, give us the required output.
+3) **Model's Architecture**: Developed two CNN models, which when used together, give us the required output.
 4) **Evaluation**: Evaluated the model's performance by getting accuracy and making the confusion matrix.
 
 
