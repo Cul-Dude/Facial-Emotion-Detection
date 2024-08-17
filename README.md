@@ -3,7 +3,7 @@ Emotion AI, also known as affective computing, is a field within artificial inte
 Common methods include computer vision for facial expression analysis, natural language processing (NLP) for sentiment analysis in text and speech, and machine learning algorithms for pattern recognition and classification.
 
 # Aim:
-The amin of this project is to classify people's emotions and expression based on their face images
+This project aims to classify people's emotions and expressions based on their facial images. Got an impressive accuracy of 73% on test images.
 
 # Applications:
 
